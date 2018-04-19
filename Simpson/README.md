@@ -1,7 +1,5 @@
 As Homework 21 in the course Mech 105, the assignment was to create an algorithm that used Simpson's 1/3 rule for integration of experimental data.
 
-** Note: This algorithm is still being worked on and does not accurately produce the correct output. **
-
 ## Inputs
 
 All inputs should be in the form of a single line of experimental data. The function checks to see if it is entered as a vertical or horizontal matrix and changes it to be a vertical matrix. If the number of points entered was even, then the trapezoidal rule was used alongside the Simpson 1/3 rule for the last segment. 
